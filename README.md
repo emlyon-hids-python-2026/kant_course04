@@ -26,4 +26,4 @@ uv run scripts/demo.py
 
 ## Author
 
-Your Name <samuel.kant@edu.em-lyon.com>
+Samuel Kant <samuel.kant@edu.em-lyon.com>
