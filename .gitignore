@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# give common data files that should be ignored in a .gitignore file
+data/*
+!data/.gitkeep
