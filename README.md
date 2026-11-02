@@ -6,7 +6,7 @@ Short description of the project: what it does and why.
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/emlyon-hids-python-2026/kant_course04.git
 cd kant_course04
 uv sync
 ```
